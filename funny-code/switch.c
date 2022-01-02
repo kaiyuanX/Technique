@@ -1,3 +1,5 @@
+/* 待读 */
+
 int function(void)
 {
     static int i, state = 0;

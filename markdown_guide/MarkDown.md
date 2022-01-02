@@ -59,7 +59,10 @@ Ordered List
 
 ## Emoji
 :blush:
+
 [More](https://gist.github.com/rxaviers/7360908)
+
+[This could be better](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
 ## Quotes
